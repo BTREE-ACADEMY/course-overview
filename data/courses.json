@@ -1,3 +1,41 @@
 {
-  "scratch": "hi"
+    "scratch": [
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "hours": 1.5,
+            "concepts": [
+                "events",
+                "motion",
+                "looks"
+            ]
+        },
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "hours": 1.5,
+            "concepts": [
+                "control",
+                "operators"
+            ]
+        },
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "hours": 1.5,
+            "concepts": [
+                "sensing",
+                "variables",
+                "my blocks"
+            ]
+        },
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "hours": 1.5,
+            "concepts": [
+                "small applications and games"
+            ]
+        }
+    ]
 }
