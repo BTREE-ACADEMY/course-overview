@@ -3,7 +3,7 @@
         { 
             "age": "elementary",
             "duration": 8,
-            "rate": 40,
+            "rate": 50,
             "hours": 1.5,
             "concepts": [
                 "events",
@@ -14,7 +14,7 @@
         { 
             "age": "elementary",
             "duration": 8,
-            "rate": 40,
+            "rate": 50,
             "hours": 1.5,
             "concepts": [
                 "control",
@@ -24,7 +24,7 @@
         { 
             "age": "elementary",
             "duration": 8,
-            "rate": 40,
+            "rate": 50,
             "hours": 1.5,
             "concepts": [
                 "sensing",
@@ -35,10 +35,98 @@
         { 
             "age": "elementary",
             "duration": 8,
-            "rate": 40,
+            "rate": 50,
             "hours": 1.5,
             "concepts": [
                 "small applications and games"
+            ]
+        }
+    ],
+    "python": [
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "rate": 50,
+            "hours": 1.5,
+            "concepts": [
+                "variables",
+                "if statements"
+            ]
+        },
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "rate": 50,
+            "hours": 1.5,
+            "concepts": [
+                "loops"
+            ]
+        },
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "rate": 50,
+            "hours": 1.5,
+            "concepts": [
+                "lists"
+            ]
+        },
+        { 
+            "age": "elementary",
+            "duration": 8,
+            "rate": 50,
+            "hours": 1.5,
+            "concepts": [
+                "more application and practice"
+            ]
+        }
+    ],
+    "language-101": [
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "data types",
+                "variables",
+                "arithmetic/relational operators",
+                "boolean expressions",
+                "if statements",
+                "arrays"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "loops",
+                "combining loops with arrays",
+                "neighboring indices",
+                "multiple arrays"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "string",
+                "coming loops with strings",
+                "arraylist (primitive)",
+                "arraylist (string)"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "more application and practice"
             ]
         }
     ]
