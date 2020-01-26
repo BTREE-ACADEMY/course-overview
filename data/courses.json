@@ -129,5 +129,185 @@
                 "more application and practice"
             ]
         }
+    ],
+    "intermediate cs": [
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "unity intro A"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "unity intro b"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "algorithm competition"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 8,
+            "rate": 50,
+            "hours": 2,
+            "concepts": [
+                "html/css primer"
+            ]
+        }
+    ],
+    "game": [
+        { 
+            "age": "middle+",
+            "duration": 12,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "unity basics"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 12,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "applying algorithms to games"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 12,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "publishable games"
+            ]
+        },
+        { 
+            "age": "middle+",
+            "duration": 4,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "entrepreneurship"
+            ]
+        }
+    ],
+    "app": [
+        {
+            "age": "middle+",
+            "duration": 8,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "HTML/CSS",
+                "flex"
+            ]
+        },
+        {
+            "age": "middle+",
+            "duration": 8,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "javascript",
+                "jquery"
+            ]
+        },
+        {
+            "age": "middle+",
+            "duration": 12,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "react",
+                "flutter"
+            ]
+        },
+        {
+            "age": "middle+",
+            "duration": 4,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "entrepreneurship"
+            ]
+        }
+    ],
+    "competition": [
+        {
+            "age": "middle+",
+            "duration": 12,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "dictionary",
+                "hash set",
+                "nested structures",
+                "brute force"
+            ]
+        },
+        {
+            "age": "middle+",
+            "duration": 4,
+            "rate": 70,
+            "hours": 2,
+            "concepts": [
+                "linked list",
+                "dictionary",
+                "hash set",
+                "nested structures",
+                "complexity",
+                "brute force",
+                "greedy algorithms",
+                "recursion",
+                "dynamic programming"
+            ]
+        },
+        {
+            "age": "middle+",
+            "duration": 4,
+            "rate": 80,
+            "hours": 2,
+            "concepts": [
+                "binary search trees",
+                "sorted set",
+                "shortest path",
+                "depth first search",
+                "breadth first search",
+                "graph theory",
+                "flood fill",
+                "disjoint set",
+                "djikstra's algorithm",
+                "floyd-warshall",
+                "sliding window",
+                "prefixed sum"
+            ]
+        },
+        {
+            "age": "middle+",
+            "duration": 4,
+            "rate": 100,
+            "hours": 2,
+            "concepts": [
+                "minimum spanning tree",
+                "fenwick tree",
+                "segment tree",
+                "computational geometry"
+            ]
+        }
     ]
 }
