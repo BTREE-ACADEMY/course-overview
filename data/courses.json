@@ -1,5 +1,5 @@
 {
-	"scratch": {
+	"Scratch": {
 		"img": "https://i.imgur.com/P85dg6N.jpg",
 		"desc": "Scratch is a visual programming language that uses code blocks to develop applications. Our goal with this course is to build interest in coding and to develop the foundational logic for students to build their future skills upon.",
 		"list": [{
@@ -45,7 +45,7 @@
 			}
 		]
 	},
-	"python": {
+	"Python": {
 		"img": "https://i.imgur.com/Uey9DIA.jpg",
 		"desc": "We use Python in this course to introduce a written coding language that is easier to understand for beginning coders. We will introduce the fundamentals that every coder needs, and practice them using a visual learning tool called Turtle.",
 		"list": [{
@@ -91,7 +91,7 @@
 			}
 		]
 	},
-	"language-101": {
+	"Language-101": {
 		"img": "https://i.imgur.com/tT704Mm.jpg",
 		"desc": "We will utilize Java in this course to further develop the fundamentals of coding. Java is a strict language that will encourage good habits as they develop their skills. This course involves much more application that most courses, since each fundamental skill requires many hours of practice.",
 		"list": [{
@@ -143,7 +143,7 @@
 			}
 		]
 	},
-	"intermediate cs": {
+	"Intermediate CS": {
 		"img": "https://i.imgur.com/Cv7l8ak.jpg",
 		"desc": "This course is designed to help students digest the fundamental skills that they learned previously in a more fun and engaging way. Our goal is to show how these fundamentals they learned apply to more practical situations such as game development, web/app development, and competitions.",
 		"list": [{
@@ -184,7 +184,7 @@
 			}
 		]
 	},
-	"game": {
+	"Game": {
 		"img": "https://i.imgur.com/VHDQsmp.jpg",
 		"desc": "This course is for students who are interested in game development. Unity will be covered starting from the very basics all the way to publishing your first game.",
 		"list": [{
@@ -225,7 +225,7 @@
 			}
 		]
 	},
-	"app": {
+	"Apps": {
 		"img": "https://i.imgur.com/x7e9S9y.jpg",
 		"desc": "This course is for students interested in building websites or making mobile apps. We will being with the basics, HTML and CSS and work towards bringing our ideas to life through React and Flutter.",
 		"list": [{
@@ -269,7 +269,7 @@
 			}
 		]
 	},
-	"competition": {
+	"Competition": {
 		"img": "https://i.imgur.com/t4ikEbV.jpg",
 		"desc": "This course is for competitive students who want to push their algorithms knowledge to the limits. We primarily focus on preparing students for the annual USACO competition and further train students for Google Kick Start and High School Programming Contest (HSPC).",
 		"list": [{
