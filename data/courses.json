@@ -1,444 +1,437 @@
 {
-    "scratch": {
-        "img": "https://i.imgur.com/P85dg6N.jpg",
-        "desc": "Scratch is a visual programming language that uses code blocks to develop applications. Our goal with this course is to build interest in coding and to develop the foundational logic for students to build their future skills upon.",
-        "list": [
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "events",
-                    "motion",
-                    "looks"
-                ]
-            },
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "control",
-                    "operators"
-                ]
-            },
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "sensing",
-                    "variables",
-                    "my blocks"
-                ]
-            },
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "small applications and games"
-                ]
-            }
-        ]
-    },
-    "python": {
-        "img": "https://i.imgur.com/Uey9DIA.jpg",
-        "desc": "We use Python in this course to introduce a written coding language that is easier to understand for beginning coders. We will introduce the fundamentals that every coder needs, and practice them using a visual learning tool called Turtle.",
-        "list": [
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "variables",
-                    "arithmetic/relational operators",
-                    "if statements"
-                ]
-            },
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "while loop",
-                    "pattern drawing",
-                    "loop tracing"
-                ]
-            },
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "list",
-                    "list iteration with loops"
-                ]
-            },
-            {
-                "age": "elementary",
-                "duration": 8,
-                "rate": 50,
-                "hours": 1.5,
-                "concepts": [
-                    "more application and practice"
-                ]
-            }
-        ]
-    },
-    "language-101": {
-        "img": "https://i.imgur.com/tT704Mm.jpg",
-        "desc": "We will utilize Java in this course to further develop the fundamentals of coding. Java is a strict language that will encourage good habits as they develop their skills. This course involves much more application that most courses, since each fundamental skill requires many hours of practice.",
-        "list": [
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "data types",
-                    "variables",
-                    "arithmetic/relational operators",
-                    "boolean expressions",
-                    "if statements",
-                    "arrays"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "loops",
-                    "combining loops with arrays",
-                    "neighboring indices",
-                    "multiple arrays"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "string",
-                    "combining loops with strings",
-                    "arraylist (primitive)",
-                    "arraylist (string)"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "more application and practice"
-                ]
-            }
-        ]
-    },
-    "intermediate cs": {
-        "img": "https://i.imgur.com/Cv7l8ak.jpg",
-        "desc": "This course is designed to help students digest the fundamental skills that they learned previously in a more fun and engaging way. Our goal is to show how these fundamentals they learned apply to more practical situations such as game development, web/app development, and competitions.",
-        "list": [
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "unity intro A"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "unity intro b"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "algorithm competition"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 50,
-                "hours": 2,
-                "concepts": [
-                    "html/css primer"
-                ]
-            }
-        ]
-    },
-    "game": {
-        "img": "https://i.imgur.com/VHDQsmp.jpg",
-        "desc": "This course is for students who are interested in game development. Unity will be covered starting from the very basics all the way to publishing your first game.",
-        "list": [
-            {
-                "age": "middle+",
-                "duration": 12,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "unity basics"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 12,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "applying algorithms to games"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 12,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "publishable games"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 4,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "entrepreneurship"
-                ]
-            }
-        ]
-    },
-    "app": {
-        "img": "https://i.imgur.com/x7e9S9y.jpg",
-        "desc": "This course is for students interested in building websites or making mobile apps. We will being with the basics, HTML and CSS and work towards bringing our ideas to life through React and Flutter.",
-        "list": [
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "HTML/CSS",
-                    "flex"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "javascript",
-                    "jquery"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 12,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "react",
-                    "flutter"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 4,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "entrepreneurship"
-                ]
-            }
-        ]
-    },
-    "competition": {
-        "img": "https://i.imgur.com/t4ikEbV.jpg",
-        "desc": "This course is for competitive students who want to push their algorithms knowledge to the limits. We primarily focus on preparing students for the annual USACO competition and further train students for Google Kick Start and High School Programming Contest (HSPC).",
-        "list": [
-            {
-                "age": "middle+",
-                "duration": 6,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "dictionary",
-                    "hash set"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 6,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "nested data structures",
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 6,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "brute force"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 6,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "practice"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "dictionary",
-                    "hash set",
-                    "nested structures"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "recursion",
-                    "brute force"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "complexity",
-                    "greedy algorithms",
-                    "dynamic programming"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 12,
-                "rate": 70,
-                "hours": 2,
-                "concepts": [
-                    "practice"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 80,
-                "hours": 2,
-                "concepts": [
-                    "depth first search",
-                    "breadth first search",
-                    "binary search trees",
-                    "sorted set"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 80,
-                "hours": 2,
-                "concepts": [
-                    "graph theory",
-                    "shortest path",
-                    "djikstra's algorithm",
-                    "disjoint set"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 80,
-                "hours": 2,
-                "concepts": [
-                    "flood fill",
-                    "floyd-warshall",
-                    "sliding window",
-                    "prefixed sum"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 12,
-                "rate": 80,
-                "hours": 2,
-                "concepts": [
-                    "silver practice"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 100,
-                "hours": 2,
-                "concepts": [
-                    "minimum spanning tree",
-                    "fenwick tree",
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 100,
-                "hours": 2,
-                "concepts": [
-                    "segment tree",
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 8,
-                "rate": 100,
-                "hours": 2,
-                "concepts": [
-                    "computational geometry"
-                ]
-            },
-            {
-                "age": "middle+",
-                "duration": 12,
-                "rate": 100,
-                "hours": 2,
-                "concepts": [
-                    "gold practice"
-                ]
-            }
-        ]
-    }
+	"scratch": {
+		"img": "https://i.imgur.com/P85dg6N.jpg",
+		"desc": "Scratch is a visual programming language that uses code blocks to develop applications. Our goal with this course is to build interest in coding and to develop the foundational logic for students to build their future skills upon.",
+		"list": [{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"events",
+					"motion",
+					"looks"
+				]
+			},
+			{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"control",
+					"operators"
+				]
+			},
+			{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"sensing",
+					"variables",
+					"my blocks"
+				]
+			},
+			{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"small applications and games"
+				]
+			}
+		]
+	},
+	"python": {
+		"img": "https://i.imgur.com/Uey9DIA.jpg",
+		"desc": "We use Python in this course to introduce a written coding language that is easier to understand for beginning coders. We will introduce the fundamentals that every coder needs, and practice them using a visual learning tool called Turtle.",
+		"list": [{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"variables",
+					"arithmetic/relational operators",
+					"if statements"
+				]
+			},
+			{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"while loop",
+					"pattern drawing",
+					"loop tracing"
+				]
+			},
+			{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"list",
+					"list iteration with loops"
+				]
+			},
+			{
+				"age": "elementary",
+				"duration": 8,
+				"rate": 50,
+				"hours": 1.5,
+				"concepts": [
+					"more application and practice"
+				]
+			}
+		]
+	},
+	"language-101": {
+		"img": "https://i.imgur.com/tT704Mm.jpg",
+		"desc": "We will utilize Java in this course to further develop the fundamentals of coding. Java is a strict language that will encourage good habits as they develop their skills. This course involves much more application that most courses, since each fundamental skill requires many hours of practice.",
+		"list": [{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"data types",
+					"variables",
+					"arithmetic/relational operators",
+					"boolean expressions",
+					"if statements",
+					"arrays"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"loops",
+					"combining loops with arrays",
+					"neighboring indices",
+					"multiple arrays"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"string",
+					"combining loops with strings",
+					"arraylist (primitive)",
+					"arraylist (string)"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"more application and practice"
+				]
+			}
+		]
+	},
+	"intermediate cs": {
+		"img": "https://i.imgur.com/Cv7l8ak.jpg",
+		"desc": "This course is designed to help students digest the fundamental skills that they learned previously in a more fun and engaging way. Our goal is to show how these fundamentals they learned apply to more practical situations such as game development, web/app development, and competitions.",
+		"list": [{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"unity intro A"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"unity intro b"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"algorithm competition"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 50,
+				"hours": 2,
+				"concepts": [
+					"html/css primer"
+				]
+			}
+		]
+	},
+	"game": {
+		"img": "https://i.imgur.com/VHDQsmp.jpg",
+		"desc": "This course is for students who are interested in game development. Unity will be covered starting from the very basics all the way to publishing your first game.",
+		"list": [{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"unity basics"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"applying algorithms to games"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"publishable games"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 4,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"entrepreneurship"
+				]
+			}
+		]
+	},
+	"app": {
+		"img": "https://i.imgur.com/x7e9S9y.jpg",
+		"desc": "This course is for students interested in building websites or making mobile apps. We will being with the basics, HTML and CSS and work towards bringing our ideas to life through React and Flutter.",
+		"list": [{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"HTML/CSS",
+					"flex"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"javascript",
+					"jquery"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"react",
+					"flutter"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 4,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"entrepreneurship"
+				]
+			}
+		]
+	},
+	"competition": {
+		"img": "https://i.imgur.com/t4ikEbV.jpg",
+		"desc": "This course is for competitive students who want to push their algorithms knowledge to the limits. We primarily focus on preparing students for the annual USACO competition and further train students for Google Kick Start and High School Programming Contest (HSPC).",
+		"list": [{
+				"age": "middle+",
+				"duration": 6,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"dictionary",
+					"hash set"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 6,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"nested data structures"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 6,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"brute force"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 6,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"practice"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"dictionary",
+					"hash set",
+					"nested structures"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"recursion",
+					"brute force"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"complexity",
+					"greedy algorithms",
+					"dynamic programming"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"practice"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 80,
+				"hours": 2,
+				"concepts": [
+					"depth first search",
+					"breadth first search",
+					"binary search trees",
+					"sorted set"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 80,
+				"hours": 2,
+				"concepts": [
+					"graph theory",
+					"shortest path",
+					"djikstra's algorithm",
+					"disjoint set"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 80,
+				"hours": 2,
+				"concepts": [
+					"flood fill",
+					"floyd-warshall",
+					"sliding window",
+					"prefixed sum"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 80,
+				"hours": 2,
+				"concepts": [
+					"silver practice"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 100,
+				"hours": 2,
+				"concepts": [
+					"minimum spanning tree",
+					"fenwick tree"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 100,
+				"hours": 2,
+				"concepts": [
+					"segment tree"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 100,
+				"hours": 2,
+				"concepts": [
+					"computational geometry"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 100,
+				"hours": 2,
+				"concepts": [
+					"gold practice"
+				]
+			}
+		]
+	}
 }
