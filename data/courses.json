@@ -143,7 +143,7 @@
 			}
 		]
 	},
-	"Intermediate CS": {
+	"Language 102": {
 		"img": "https://i.imgur.com/Cv7l8ak.jpg",
 		"desc": "This course is designed to help students digest the fundamental skills that they learned previously in a more fun and engaging way. Our goal is to show how these fundamentals they learned apply to more practical situations such as game development, web/app development, and competitions.",
 		"list": [{
@@ -182,6 +182,57 @@
 					"html/css primer"
 				]
 			}
+		]
+	},
+	"AP CS A": {
+		"img": "https://i.imgur.com/Cv7l8ak.jpg",
+		"desc": "This course covers the AP CS A curriculum and provides the necessary practice to succeed on the AP CS A Exam.",
+		"list": [{
+				"age": "high+",
+				"duration": 8,
+				"rate": 60,
+				"hours": 2,
+				"concepts": [
+					"Reference Type Variables",
+					"Classes and Objects",
+					"Return Types and Parameters",
+					"Constructors,
+					"Access Modifiers",
+					"Static"
+				]
+			},
+			{
+				"age": "high+",
+				"duration": 8,
+				"rate": 60,
+				"hours": 2,
+				"concepts": [
+					"Inheritance",
+					"Polymorphism",
+					"Abstract/Interface"
+				]
+			},
+			{
+				"age": "high+",
+				"duration": 8
+				"rate": 60,
+				"hours": 2,
+				"concepts": [
+					"Nested Data Structures",
+					"Loop/Recursion Tracing"
+				]
+			},
+			{
+				"age": "high+",
+				"duration": 8,
+				"rate": 60,
+				"hours": 2,
+				"concepts": [
+					"Smaller Topics",
+					"Exam Tips",
+					"Practice Exams"
+				]
+			} 
 		]
 	},
 	"Game": {
@@ -225,7 +276,7 @@
 			}
 		]
 	},
-	"Apps": {
+	"Web": {
 		"img": "https://i.imgur.com/x7e9S9y.jpg",
 		"desc": "This course is for students interested in building websites or making mobile apps. We will being with the basics, HTML and CSS and work towards bringing our ideas to life through React and Flutter.",
 		"list": [{
@@ -257,14 +308,40 @@
 					"react",
 					"flutter"
 				]
-			},
-			{
+			}
+		]
+	},
+	"App Entrepreneurship": {
+		"img": "https://i.imgur.com/x7e9S9y.jpg",
+		"desc": "This course is to help students understand the business side of publishing a website",
+		"list": [{
 				"age": "middle+",
-				"duration": 4,
+				"duration": 8,
 				"rate": 70,
 				"hours": 2,
 				"concepts": [
-					"entrepreneurship"
+					"HTML/CSS",
+					"flex"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 8,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"javascript",
+					"jquery"
+				]
+			},
+			{
+				"age": "middle+",
+				"duration": 12,
+				"rate": 70,
+				"hours": 2,
+				"concepts": [
+					"react",
+					"flutter"
 				]
 			}
 		]
@@ -274,80 +351,30 @@
 		"desc": "This course is for competitive students who want to push their algorithms knowledge to the limits. We primarily focus on preparing students for the annual USACO competition and further train students for Google Kick Start and High School Programming Contest (HSPC).",
 		"list": [{
 				"age": "middle+",
-				"duration": 6,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"dictionary",
-					"hash set"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 6,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"nested data structures"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 6,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"brute force"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 6,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"practice"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 8,
+				"duration": 24,
 				"rate": 70,
 				"hours": 2,
 				"concepts": [
 					"dictionary",
 					"hash set",
-					"nested structures"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 8,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"recursion",
+					"nested data structures",
 					"brute force"
 				]
 			},
 			{
 				"age": "middle+",
-				"duration": 8,
+				"duration": 36,
 				"rate": 70,
 				"hours": 2,
 				"concepts": [
+					"dictionary",
+					"hash set",
+					"nested structures",
+					"recursion",
+					"brute force",
 					"complexity",
 					"greedy algorithms",
 					"dynamic programming"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 12,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"practice"
 				]
 			},
 			{
@@ -359,40 +386,15 @@
 					"depth first search",
 					"breadth first search",
 					"binary search trees",
-					"sorted set"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 8,
-				"rate": 80,
-				"hours": 2,
-				"concepts": [
+					"sorted set",
 					"graph theory",
 					"shortest path",
 					"djikstra's algorithm",
-					"disjoint set"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 8,
-				"rate": 80,
-				"hours": 2,
-				"concepts": [
+					"disjoint set",
 					"flood fill",
 					"floyd-warshall",
 					"sliding window",
 					"prefixed sum"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 12,
-				"rate": 80,
-				"hours": 2,
-				"concepts": [
-					"silver practice"
 				]
 			},
 			{
@@ -402,34 +404,9 @@
 				"hours": 2,
 				"concepts": [
 					"minimum spanning tree",
-					"fenwick tree"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 8,
-				"rate": 100,
-				"hours": 2,
-				"concepts": [
-					"segment tree"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 8,
-				"rate": 100,
-				"hours": 2,
-				"concepts": [
+					"fenwick tree",
+					"segment tree",
 					"computational geometry"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 12,
-				"rate": 100,
-				"hours": 2,
-				"concepts": [
-					"gold practice"
 				]
 			}
 		]
