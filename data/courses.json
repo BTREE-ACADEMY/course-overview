@@ -196,7 +196,7 @@
 					"Reference Type Variables",
 					"Classes and Objects",
 					"Return Types and Parameters",
-					"Constructors,
+					"Constructors",
 					"Access Modifiers",
 					"Static"
 				]
@@ -214,7 +214,7 @@
 			},
 			{
 				"age": "high+",
-				"duration": 8
+				"duration": 8,
 				"rate": 60,
 				"hours": 2,
 				"concepts": [
