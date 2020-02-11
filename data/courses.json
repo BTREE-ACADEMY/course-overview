@@ -308,21 +308,6 @@
 					"react",
 					"flutter"
 				]
-			}
-		]
-	},
-	"App Entrepreneurship": {
-		"img": "https://i.imgur.com/x7e9S9y.jpg",
-		"desc": "This course is to help students understand the business side of publishing a website",
-		"list": [{
-				"age": "middle+",
-				"duration": 8,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"HTML/CSS",
-					"flex"
-				]
 			},
 			{
 				"age": "middle+",
@@ -330,18 +315,7 @@
 				"rate": 70,
 				"hours": 2,
 				"concepts": [
-					"javascript",
-					"jquery"
-				]
-			},
-			{
-				"age": "middle+",
-				"duration": 12,
-				"rate": 70,
-				"hours": 2,
-				"concepts": [
-					"react",
-					"flutter"
+					"app entrepreneurship"
 				]
 			}
 		]
@@ -379,7 +353,7 @@
 			},
 			{
 				"age": "middle+",
-				"duration": 8,
+				"duration": 36,
 				"rate": 80,
 				"hours": 2,
 				"concepts": [
@@ -399,7 +373,7 @@
 			},
 			{
 				"age": "middle+",
-				"duration": 8,
+				"duration": 36,
 				"rate": 100,
 				"hours": 2,
 				"concepts": [
