@@ -276,7 +276,7 @@
 			}
 		]
 	},
-	"Web": {
+	"App": {
 		"img": "https://i.imgur.com/x7e9S9y.jpg",
 		"desc": "This course is for students interested in building websites or making mobile apps. We will being with the basics, HTML and CSS and work towards bringing our ideas to life through React and Flutter.",
 		"list": [{
