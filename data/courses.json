@@ -91,7 +91,7 @@
 			}
 		]
 	},
-	"Language 101": {
+	"Language-101": {
 		"img": "https://i.imgur.com/tT704Mm.jpg",
 		"desc": "We will utilize Java in this course to further develop the fundamentals of coding. Java is a strict language that will encourage good habits as they develop their skills. This course involves much more application that most courses, since each fundamental skill requires many hours of practice.",
 		"list": [{
@@ -143,7 +143,7 @@
 			}
 		]
 	},
-	"Language 102": {
+	"Language-102": {
 		"img": "https://i.imgur.com/rOmFwps.jpg",
 		"desc": "This course is designed to help students digest the fundamental skills that they learned previously in a more fun and engaging way. Our goal is to show how these fundamentals they learned apply to more practical situations such as game development, web/app development, and competitions.",
 		"list": [{
